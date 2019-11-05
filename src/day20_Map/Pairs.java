@@ -1,4 +1,4 @@
-package day20;
+package day20_Map;
 
 public class Pairs {
 
