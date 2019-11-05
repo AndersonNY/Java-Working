@@ -1,4 +1,4 @@
-package day14;
+package day14_Array;
 
 public class Homework {
 

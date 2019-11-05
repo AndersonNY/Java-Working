@@ -1,4 +1,4 @@
-package day9;
+package day9_ifElseSwitch;
 
 public class HomeworkIfElseSwitch {
     // highlight ctrl + /

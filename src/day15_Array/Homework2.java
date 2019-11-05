@@ -1,4 +1,4 @@
-package day15;
+package day15_Array;
 
 // research on topics "Multi Dimensional Arrays", "Nested Loops"
 public class Homework2 {

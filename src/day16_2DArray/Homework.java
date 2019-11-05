@@ -1,4 +1,4 @@
-package day16;
+package day16_2DArray;
 
 public class Homework {
 //         walmart	costco	corrado's	AVG

@@ -1,4 +1,4 @@
-package day12;
+package day12_Loop;
 
 public class HomeworkLoops {
 

@@ -1,4 +1,4 @@
-package day15;
+package day15_Array;
 
 import java.util.Random;
 
